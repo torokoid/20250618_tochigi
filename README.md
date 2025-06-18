@@ -196,14 +196,7 @@ p.note { display: none; }
 
 
 
-<br><br>
-<h2><span class="yellow">メタバース「cluster」内のイベントで「雪の約束」by まいてゃさん<br>ダンサーの玖遠さんがトラブってみんなでステージダンスになりました</span></h2>
-  
-        <h2>MP4ファイルの再生</h2>
-    <video controls width="640">
-        <source src="2025-02-26 yukinoyakusoku by maitiya.mp4" type="video/mp4">
-        お使いのブラウザは video タグをサポートしていません。
-    </video>
+
 
 
 
